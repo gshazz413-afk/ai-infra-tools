@@ -11,10 +11,6 @@ GPU monitoring &amp; data center tools
 ![GPU Dashboard](gpu_dashboard.png)
 
 > "I know why your GPU hits 82°C — and how to fix it in 5 minutes."
-# AI Infrastructure Tools
-**Python | GPU scaling **
-
-Just racks, Python, and real results.
 
 ---
 
